@@ -2102,9 +2102,15 @@ a {
   width: 100%;
 }
 .cid-sz6CcztS4h {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
+}
+.cid-sz6CcztS4h .mbr-section-subtitle {
+  text-align: left;
+}
+.cid-sz6CcztS4h .mbr-section-title {
+  text-align: left;
 }
 .cid-sxYp0dvI91 {
   z-index: 1000;
