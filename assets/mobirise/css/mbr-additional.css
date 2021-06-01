@@ -690,6 +690,8 @@ a {
   transition: color 0.6s;
 }
 .cid-sz6Au5CoG1 {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   background-image: url("../../../assets/images/cac-colored-2306x2060.png");
 }
 .cid-sz6Au5CoG1 .mbr-section-title {
@@ -1064,6 +1066,27 @@ a {
     padding: 2rem;
   }
 }
+.cid-sz6MMiNcpt {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sz6MMiNcpt .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sz6MMiNcpt .row {
+  flex-direction: row-reverse;
+}
+.cid-sz6MMiNcpt img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sz6MMiNcpt .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sxYHALjeBp {
   padding-top: 2rem;
   padding-bottom: 0rem;
@@ -1100,24 +1123,6 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sxYHAUZVgN .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-sxYHB3TnwP {
-  padding-top: 0rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-sxYHB3TnwP .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sxYHB3TnwP img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-sxYHB3TnwP .text-wrapper {
     padding: 2rem;
   }
 }
